@@ -1,14 +1,15 @@
 app_name = "sowaan_pos"
 app_title = "Sowaan Pos"
-app_publisher = "sowaan"
-app_description = "Sowaan POS"
+app_publisher = "Sowaan Pvt. Ltd."
+app_description = "Modern POS Software"
 app_email = "info@sowaan.com"
 app_license = "mit"
+source_link = "https://github.com/sowaan/sowaan_pos"
 
 # Apps
 # ------------------
 
-# required_apps = []
+required_apps = ["posawesome"]
 
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
