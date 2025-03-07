@@ -9,7 +9,7 @@ source_link = "https://github.com/sowaan/sowaan_pos"
 # Apps
 # ------------------
 
-required_apps = ["posawesome"]
+required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
